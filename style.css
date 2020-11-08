@@ -1,0 +1,68 @@
+.header{
+    text-align: center;
+    margin:auto;
+}
+
+
+
+
+.days{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+}        
+
+
+
+/* #a{
+    border-style: solid;
+    border-color: brown;
+    border-width: 3px;
+    width: 50px;
+    height:170px;
+    background-color: aqua;
+    padding: 5px;
+}
+
+#b{
+    border-style: solid;
+    border-color: brown;
+    border-width: 3px;
+    width: 50px;
+    height:170px;
+    background-color: aqua;
+    padding: 5px;
+}
+#c{
+    border-style: solid;
+    border-color: brown;
+    border-width: 3px;
+    width: 50px;
+    height:170px;
+    background-color: aqua;
+    padding: 5px;
+}
+
+#d{
+    border-style: solid;
+    border-color: brown;
+    border-width: 3px;
+    width: 50px;
+    height:170px;
+    background-color: aqua;
+    padding: 5px; 
+}
+
+#e{
+    border-style: solid;
+    border-color: brown;
+    border-width: 3px;
+    width: 50px;
+    height:170px;
+    background-color: aqua;
+    padding: 5px;
+} */
